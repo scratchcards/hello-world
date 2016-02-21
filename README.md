@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Well Hello!
+
+Up and coming front-end developer here.
+See ya!
